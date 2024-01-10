@@ -2,3 +2,5 @@
 
 - [Coordinate_system.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Coordinate_system.ipynb) produces the figures regarding the polarisation-basis GW coordinate system, the single arm coordinate system, the interferometer coordinate system, and the coordinate system used to introduce the quadrupole approximation.  
 - [Polarisations_test_masses.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Polarisations_test_masses.ipynb) produces the figures regarding the effect of different GW polarisations (tensor, vector,scalar) on a ring of test masses.
+- [Antenna_patterns.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Antenna_patterns.ipynb) produces the 3D plots of the antenna patterns (small antenna limit and free-spectral range) of a Michelson interferometer for an incoming GW orthogonal to the arm plane.
+- [Fabry-Perot%20electric%20field.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Fabry-Perot%20electric%20field.ipynb) produces a naive illustration of the electric field reflected, inside and transmitted through a Fabry-Perot cavity.
