@@ -4,3 +4,5 @@
 - [Polarisations_test_masses.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Polarisations_test_masses.ipynb) produces the figures regarding the effect of different GW polarisations (tensor, vector,scalar) on a ring of test masses.
 - [Antenna_patterns.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Antenna_patterns.ipynb) produces the 3D plots of the antenna patterns (small antenna limit and free-spectral range) of a Michelson interferometer for an incoming GW orthogonal to the arm plane.
 - [Fabry-Perot%20electric%20field.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Fabry-Perot%20electric%20field.ipynb) produces a naive illustration of the electric field reflected, inside and transmitted through a Fabry-Perot cavity.
+- [Free_spectral_range.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Free_spectral_range.ipynb) produces the plot with the resonant spectrum for a Fabry-Perot cavity at different finesse.
+- [Quantum_noise.ipynb](https://github.com/Delo95/PhD_Thesis/blob/main/Figures/Quantum_noise.ipynb) produces the PSDs of the different quantum noises and a plot illustarting the standard quantum limit.
